@@ -1,4 +1,11 @@
 # beamer_control
+
+**CAUTION: We have moved all of our git presence to [codeberg](https://codeberg.org/technikkultur-erfurt). This repo is an archive.**
+
+If you want to maintain this code, feel free to either fork this repository or migrate it to the group on [codeberg](https://codeberg.org/technikkultur-erfurt).
+
+---
+
 Did  you ever want to control the projector of the Bytespeicher at Erfurt?
 
 With this sketch you can control the asus projector over ir.
